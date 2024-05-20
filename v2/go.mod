@@ -17,7 +17,7 @@ require (
 	github.com/projectdiscovery/freeport v0.0.5
 	github.com/projectdiscovery/goflags v0.1.52
 	github.com/projectdiscovery/gologger v1.1.12
-	github.com/projectdiscovery/ipranger v0.0.46
+	github.com/projectdiscovery/ipranger v0.0.47
 	github.com/projectdiscovery/mapcidr v1.1.34
 	github.com/projectdiscovery/networkpolicy v0.0.8
 	github.com/projectdiscovery/ratelimit v0.0.41
@@ -82,7 +82,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
 	github.com/projectdiscovery/asnmap v1.1.0 // indirect
 	github.com/projectdiscovery/fastdialer v0.0.71 // indirect
-	github.com/projectdiscovery/hmap v0.0.41 // indirect
+	github.com/projectdiscovery/hmap v0.0.42 // indirect
 	github.com/projectdiscovery/machineid v0.0.0-20240226150047-2e2c51e35983 // indirect
 	github.com/projectdiscovery/retryabledns v1.0.59 // indirect
 	github.com/quic-go/quic-go v0.42.0 // indirect
